@@ -25,7 +25,7 @@ class resize_picture extends CModule
         $this->MODULE_NAME = "Модуль изменение размера картинок";
         $this->MODULE_DESCRIPTION = "Модуль изменение размера загружаемых картинок";
         $this->PARTNER_NAME = "Denis";
-        $this->PARTNER_URI = "localhost";
+        $this->PARTNER_URI = "https://google.com";
     }
 
     function RegisterEvents(){
